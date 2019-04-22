@@ -1,0 +1,16 @@
+PODS:
+  - AMKBundleSettingsManager (0.1.0)
+
+DEPENDENCIES:
+  - AMKBundleSettingsManager (from `../`)
+
+EXTERNAL SOURCES:
+  AMKBundleSettingsManager:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AMKBundleSettingsManager: cd09c8f1ad4ac81841b50056aa1b72686bd5f0eb
+
+PODFILE CHECKSUM: bd22de283fca4882fffdf0ce8cc06ac37ec96d55
+
+COCOAPODS: 1.7.0.beta.3
